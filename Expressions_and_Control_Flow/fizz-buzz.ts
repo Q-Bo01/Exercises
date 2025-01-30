@@ -3,7 +3,7 @@
 // and for the multiples of five print “Buzz”
 // For numbers which are multiples of both three and five print “FizzBuzz”
 
-function FizzBuzz() {
+function FizzBuzz(): void {
   let i = 1;
 
   while (i <= 100) {

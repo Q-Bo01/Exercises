@@ -1,7 +1,7 @@
 // Declare variables to store personal information and print them
 // Name (string), Age (number), Height (number), and Marital Status (boolean)
 
-function displayPersonalInfo() {
+function displayPersonalInfo(): void {
   const name: string = "Q-Bo";
   const age: number = 38;
   const height: number = 1.78;
